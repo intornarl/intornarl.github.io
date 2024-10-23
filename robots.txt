@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://intornarl.github.io/intornarl.intornarl
+Sitemap: https://intornarl.github.io/app/intornarl.intornarl
+Sitemap: https://intornarl.github.io/assets/intornarl.intornarl
+Sitemap: https://intornarl.github.io/css/intornarl.intornarl
+Sitemap: https://intornarl.github.io/includes/intornarl.intornarl
+Sitemap: https://intornarl.github.io/item/intornarl.intornarl
+Sitemap: https://intornarl.github.io/src/intornarl.intornarl
